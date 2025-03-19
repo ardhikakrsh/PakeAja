@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'pakeaja-app.firebasestorage.app',
     measurementId: 'G-YFZBW9DRPC',
   );
+
 }
