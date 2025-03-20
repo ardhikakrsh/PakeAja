@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "343821362827",
-    "project_id": "pakeaja-app",
-    "storage_bucket": "pakeaja-app.firebasestorage.app"
+    "project_number": "945808117754",
+    "project_id": "sewify-app",
+    "storage_bucket": "sewify-app.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:343821362827:android:f584a17a621b9fbbb0968e",
+        "mobilesdk_app_id": "1:945808117754:android:ba54ea710b45243df09e43",
         "android_client_info": {
-          "package_name": "com.example.pakeaja"
+          "package_name": "com.example.sewify"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCCENDcGvDJwL3dPP1umiKdt7Q3n3_d09o"
+          "current_key": "AIzaSyApKwPhLvgcqII2uITA6o9or4XFRIW-Q2M"
         }
       ],
       "services": {

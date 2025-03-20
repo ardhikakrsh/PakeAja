@@ -41,49 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAJ-6hHu5lomZ_pBbc7ajq86nvHLxPzTdQ',
-    appId: '1:343821362827:web:68af888a7f1c52c1b0968e',
-    messagingSenderId: '343821362827',
-    projectId: 'pakeaja-app',
-    authDomain: 'pakeaja-app.firebaseapp.com',
-    storageBucket: 'pakeaja-app.firebasestorage.app',
-    measurementId: 'G-PEYS5P94P8',
+    apiKey: 'AIzaSyCcX2XkdjD1ux3Z14RQUPQ666Ai71cUzQc',
+    appId: '1:945808117754:web:ff0770929af70bc7f09e43',
+    messagingSenderId: '945808117754',
+    projectId: 'sewify-app',
+    authDomain: 'sewify-app.firebaseapp.com',
+    storageBucket: 'sewify-app.firebasestorage.app',
+    measurementId: 'G-4D2C0K0JDG',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCCENDcGvDJwL3dPP1umiKdt7Q3n3_d09o',
-    appId: '1:343821362827:android:f584a17a621b9fbbb0968e',
-    messagingSenderId: '343821362827',
-    projectId: 'pakeaja-app',
-    storageBucket: 'pakeaja-app.firebasestorage.app',
+    apiKey: 'AIzaSyApKwPhLvgcqII2uITA6o9or4XFRIW-Q2M',
+    appId: '1:945808117754:android:ba54ea710b45243df09e43',
+    messagingSenderId: '945808117754',
+    projectId: 'sewify-app',
+    storageBucket: 'sewify-app.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCboCSj-xHex4MqEAJNXZ4RhUKGKchIGqU',
-    appId: '1:343821362827:ios:14311a9a251d20cbb0968e',
-    messagingSenderId: '343821362827',
-    projectId: 'pakeaja-app',
-    storageBucket: 'pakeaja-app.firebasestorage.app',
-    iosBundleId: 'com.example.pakeaja',
+    apiKey: 'AIzaSyBD4NCzd3ls225C6E7GCv63lWszHqhXo5I',
+    appId: '1:945808117754:ios:d1c07dce977dafbdf09e43',
+    messagingSenderId: '945808117754',
+    projectId: 'sewify-app',
+    storageBucket: 'sewify-app.firebasestorage.app',
+    iosBundleId: 'com.example.sewify',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCboCSj-xHex4MqEAJNXZ4RhUKGKchIGqU',
-    appId: '1:343821362827:ios:14311a9a251d20cbb0968e',
-    messagingSenderId: '343821362827',
-    projectId: 'pakeaja-app',
-    storageBucket: 'pakeaja-app.firebasestorage.app',
-    iosBundleId: 'com.example.pakeaja',
+    apiKey: 'AIzaSyBD4NCzd3ls225C6E7GCv63lWszHqhXo5I',
+    appId: '1:945808117754:ios:d1c07dce977dafbdf09e43',
+    messagingSenderId: '945808117754',
+    projectId: 'sewify-app',
+    storageBucket: 'sewify-app.firebasestorage.app',
+    iosBundleId: 'com.example.sewify',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAJ-6hHu5lomZ_pBbc7ajq86nvHLxPzTdQ',
-    appId: '1:343821362827:web:4fcaf34db97eeafcb0968e',
-    messagingSenderId: '343821362827',
-    projectId: 'pakeaja-app',
-    authDomain: 'pakeaja-app.firebaseapp.com',
-    storageBucket: 'pakeaja-app.firebasestorage.app',
-    measurementId: 'G-YFZBW9DRPC',
+    apiKey: 'AIzaSyCcX2XkdjD1ux3Z14RQUPQ666Ai71cUzQc',
+    appId: '1:945808117754:web:bdc0940c900d475bf09e43',
+    messagingSenderId: '945808117754',
+    projectId: 'sewify-app',
+    authDomain: 'sewify-app.firebaseapp.com',
+    storageBucket: 'sewify-app.firebasestorage.app',
+    measurementId: 'G-RVRBE0GMXZ',
   );
 
 }
